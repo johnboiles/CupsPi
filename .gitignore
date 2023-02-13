@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+src/config.local
+src/image/*.zip
+src/image/*.xz
+**/key.json
+src/workspace
+src/build.log
